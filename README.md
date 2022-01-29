@@ -1,5 +1,5 @@
 ## Olá! eu sou William Nunes.
-    🔗 Atualmente estudando | JavaScript/Node.Js 
+   💻 Atualmente estudando | JavaScript/Node.Js 
 
 
 
