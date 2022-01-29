@@ -1,5 +1,5 @@
  <div>
-   <h1 align="center">Olá tudo bem? Eu sou o <a href="https://www.linkedin.com/in/williamcarvalhonunes/"><i>William Nunes</i></a> 🙋‍♂️</h1>                                      </div>
+   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/williamcarvalhonunes/"><i>William Nunes</i></a> 🙋‍♂️</h1>                                      </div>
 
 <div align="center">
    💻 Atualmente estudando | JavaScript/Node.Js 
