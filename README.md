@@ -31,6 +31,7 @@
 
    <div>
      ![Snake animation](https://github.com/williamnunes49/williamnunes49/blob/output/github-contribution-grid-snake.svg)
-    </div>
+   
+   </div>
 
 
