@@ -1,6 +1,6 @@
 ## Olá! eu sou William Nunes.
 - 👀 Atualmente estudando | JavaScript/Node.Js 
-- 📫 Contate-me no email: williamnunes49@gmail.com
+
 
 
 
