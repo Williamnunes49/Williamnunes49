@@ -3,9 +3,9 @@
    
    #### Com 9 anos de experiência, atuando no setor de produção e operando torno CNC, passando por diversos seguimentos da empresa, adquirindo soft skills como resiliência, trabalho em equipe, senso de liderança e boa comunicação.
 
-Apaixonado por tecnologia e em transição de carreira para a área de desenvolvimento de software.
+ Apaixonado por tecnologia e em transição de carreira para a área de desenvolvimento de software.
 Atualmente sigo na trilha de iniciante em programação, já tendo concluído os cursos de:
- ***Lógica de programação essencial |
+ **Lógica de programação essencial |
  Primeiros passos no desenvolvimento web |
  HTML5 e CSS3 |
  Introdução em Git e GitHub |
@@ -13,7 +13,7 @@ Atualmente sigo na trilha de iniciante em programação, já tendo concluído os
  Trabalhando com Branches no GitHub |
  Git e GitHub Focado em PullRequest.***
 
-Fique à vontade para me adicionar. É um prazer ter você por aqui :)
+
 
 <div align="center">
    💻 Atualmente estudando | JavaScript/Node.Js 
