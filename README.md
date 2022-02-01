@@ -24,6 +24,7 @@ Atualmente sigo na trilha de iniciante em programação, já tendo concluído os
 
 
 
+
 <div align="center">
    <br>
   <a href="https://github.com/Williamnunes49">
@@ -47,10 +48,11 @@ Atualmente sigo na trilha de iniciante em programação, já tendo concluído os
   
   <div>
     <a href = "mailto:williamnunes49@gmail.com"><img src="https://img.shields.io/badge/williamnunes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/williamcarvalhonunes/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-william nunes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/williamcarvalhonunes/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-williamnunes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
  
+
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Willianunes49/count.svg" />
