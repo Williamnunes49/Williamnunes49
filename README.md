@@ -11,7 +11,7 @@ Atualmente sigo na trilha de iniciante em programação, já tendo concluído os
  Introdução em Git e GitHub |
  Trabalhando com Git e GitLab na prática |
  Trabalhando com Branches no GitHub |
- Git e GitHub Focado em PullRequest.***
+ Git e GitHub Focado em PullRequest.**
 
 
 
@@ -44,14 +44,15 @@ Atualmente sigo na trilha de iniciante em programação, já tendo concluído os
        
 </div>
    
-  ##
   
-  <div>
+  
+<br>  <div>
     <a href = "mailto:williamnunes49@gmail.com"><img src="https://img.shields.io/badge/Gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/williamcarvalhonunes/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-william Nunes-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
- 
+
+ ##
 
  <br> <p align="center"> 
   Visitor count<br>
