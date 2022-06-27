@@ -4,7 +4,7 @@
    #### Com 9 anos de experiência, atuando no setor de produção e operando torno CNC, passando por diversos seguimentos da empresa, adquirindo soft skills como resiliência, trabalho em equipe, senso de liderança e boa comunicação.
 
  Apaixonado por tecnologia e em transição de carreira para a área de desenvolvimento de software.
-Atualmente sigo na trilha de iniciante em programação, já tendo concluído os cursos de:
+Atualmente sigo na trilha de estudante em programação, já tendo concluído os cursos de:
  **Lógica de programação essencial |
  Primeiros passos no desenvolvimento web |
  HTML5 e CSS3 |
